@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Hello Laravel!!</h1>
+    <h2>Questa è la home</h2>    
+    <a href="/second_page">Andiamo alla seconda pagina</a>
 </body>
 </html>
